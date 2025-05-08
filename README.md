@@ -76,11 +76,6 @@ src/
    - Update Maven dependencies
    - Verify JDK version compatibility
 
-## Screenshots
-[Login Interface]
-[Project Dashboard]
-[Issue Management]
-[Team Collaboration]
 
 ## Contributing
 1. Fork the repository
